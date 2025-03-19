@@ -58,6 +58,10 @@ public:
         float alpha = acos(cosAlpha);
         float theta2 = (phi - alpha) * (180.0 / M_PI);
 
+        theta1 -= 75;
+        theta2 += 90;
+        theta3 = 180 - theta3;
+
         // Set joint angles
         m_base.setRotationSmooth(servoDriver, theta1);
         m_shoulder.setRotationSmooth(servoDriver, theta2);
