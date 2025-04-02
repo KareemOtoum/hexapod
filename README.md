@@ -6,7 +6,8 @@ This is a hobby hexapod project which is being worked on by me and my roommate @
 he is in charge of the engineering side, while i do the programming.
 
 ## 🚀 Project Plan
-We plan on making a smart, aware hexapod with accurate and efficient movement.
+We plan on making a smart, aware 4-6 legged hexapod with accurate and efficient movement equipped 
+with a camera to use computer vision.
 These are some of the features we plan on implementing.  
 ✔️ Object detection and avoidance  
 ✔️ Remote Control  
