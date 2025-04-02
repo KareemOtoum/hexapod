@@ -2,7 +2,7 @@
 
 ![hexapod](https://github.com/user-attachments/assets/5d861ada-c833-4d09-8f91-9b3cb47f51a5)
 
-This is a hobby hexapod project which is being worked on by me and my roommate, 
+This is a hobby hexapod project which is being worked on by me and my roommate @Pazzann, 
 he is in charge of the engineering side, while i do the programming.
 
 ## 🚀 Project Plan
